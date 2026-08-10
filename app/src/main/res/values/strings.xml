@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Focus</string>
+    <string name="accessibility_service_description">Terra Focus monitors when paused distracting apps are launched, pauses media, and turns off your screen automatically when your sleep/focus break expires.</string>
+    <string name="focus_title">Focus</string>
+    <string name="focus_subtitle">When you need time to focus, you can pause distracting apps and hide their notifications</string>
+    <string name="set_a_schedule">+ Set a schedule</string>
+    <string name="turn_off_now">TURN OFF NOW</string>
+    <string name="turn_on_now">TURN ON NOW</string>
+    <string name="take_a_break">TAKE A BREAK</string>
+    <string name="your_distracting_apps">Your distracting apps</string>
+    <string name="select_more_apps">Select more apps</string>
+    <string name="take_a_break_for">Take a break for</string>
+    <string name="focus_is_on">Focus is on</string>
+    <string name="distracting_apps_paused">Distracting apps are paused</string>
+    <string name="youre_on_a_break">You\'re on a break</string>
+    <string name="resume_now">Resume now</string>
+</resources>
